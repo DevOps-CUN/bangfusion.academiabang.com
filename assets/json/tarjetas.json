@@ -1,0 +1,86 @@
+ {
+    "tarjeta" : [
+       
+{"Personaje":"crispi",
+
+    "tarjetas":{   
+    "1":"El cielo es un vecindario.",
+    "2":"Empieza por un garaje.",
+    "3":"Pon otros usos.",
+    "4":"Sin planos no se hacen rascacielos.",
+    "5":"Dale un vuelco a tu rutina.",
+    "6":"Piensa cosas imposibles de hacer.",
+    "7":"Haz trocitos y después júntalos.",
+    "8":"Corta una conexión.",
+    "9":"Haz cosas imperfectas.",
+    "10":"Devuélvete"
+    }
+    },
+
+{"Personaje":"cesia",
+
+    "tarjetas":{   
+   "1":"Quita las partes importantes.",
+   "2":"Cuantas manos y cabezas sean necesarias.",
+   "3":"Primero lo primero.",
+   "4":"Cambia de roles.",
+   "5":"Aporte valor de verdad",
+   "6":"Modifica.",
+   "7":"Duro como una roca, flexible como…",
+   "8":"Sé aburrido.",
+   "9":"Rómpalo!",
+   "10":"No hay reglas"
+   }
+   },
+
+{"Personaje":"cori",
+
+    "tarjetas":{   
+   "1":"Combina lo incombinable.",
+   "2":"Piensa como un lobo.",
+   "3":"Elimina, Reduce, Incrementa y crea.",
+   "4":"Observa de cerca los detalles más vergonzosos y amplíalos.",
+   "5":"Adapta.",
+   "6":"Mira los dos lados, el oscuro y el claro.",
+   "7":"Desordénalo todo.",
+   "8":"¿Qué haría tu mejor amigo?",
+   "9":"La idea no es un motivo",
+   "10":"Ni a Dios lo que es de Dios, ni al César lo que es del César"
+   }
+   },
+
+
+{"Personaje":"carmel",
+
+    "tarjetas":{   
+   "1":"Haz una lista de cuatro cosas que podrías hacer y haz lo último en la lista.",
+   "2":"Elimina.",
+   "3":"Cambia de roles.",
+   "4":"Una sencilla solución, dos difíciles soluciones.",
+   "5":"Déjà vu.",
+   "6":"Toma un descanso.",
+   "7":"Nado submarino largas distancias.",
+   "8":"Comparte valor",
+   "9":"Si tu te lo crees, los demas lo compraran",
+   "10":"Todo bombero no desea otra cosa en la vida más que ser bombero"
+   }
+   },
+
+
+{"Personaje":"cristal",
+
+    "tarjetas":{   
+   "1":"Conviertelo en tu APP favorita.",
+   "2":"Busca un libro y lee su primer párrafo.",
+   "3":"Actùa con pasiòn.",
+   "4":"Juega el juego.",
+   "5":"¿Qué pasaría si…?",
+   "6":"Nunca ponga los huevos en una sola canasta",
+   "7":"Como en casa",
+   "8":"Como lo haria la persona que mas admiras ",
+   "9":"Los detalles marcan la diferencia",
+   "10":"Que aprendiste ayer"
+   }
+   }
+]
+}

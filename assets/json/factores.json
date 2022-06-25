@@ -1,0 +1,56 @@
+{
+    "fac" : [
+       
+{"Personaje":"crispi",
+
+    "tarjetas":{   
+    "1":"Transporte",
+    "2":"Infraestructura",
+    "3":"Conocimientos Basicos",
+    "4":"Recursos Necesarios"
+    }
+    },
+
+{"Personaje":"cesia",
+
+    "tarjetas":{   
+   "1":"Reglamentacion",
+   "2":"Retribucion",
+   "3":"Agentes Externos",
+   "4":"Entorno"
+   }
+   },
+
+{"Personaje":"cori",
+
+    "tarjetas":{   
+   "1":"Comunicacion",
+   "2":"Cultura",
+   "3":"Relaciones",
+   "4":"Jerarquia"
+   }
+   },
+
+
+{"Personaje":"carmel",
+
+    "tarjetas":{   
+   "1":"Crecimiento",
+   "2":"Valor",
+   "3":"Bienestar",
+   "4":"Reconocimiento"
+   }
+   },
+
+
+{"Personaje":"cristal",
+
+    "tarjetas":{   
+   "1":"Posicionamiento",
+   "2":"Independencia",
+   "3":"Vocacion",
+   "4":"Logros"
+   }
+   }
+]
+}
